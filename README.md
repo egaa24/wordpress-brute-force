@@ -30,4 +30,7 @@ For use the standar mode or xmlrpc mode, this tool auto detect your want brute f
 
 Screenshot
 ----------
-![standar mode brute](https://images2.imgbox.com/84/99/VrmsmUXT_o.png)
+* Standart Mode Brute Force
+![Standart Mode Brute Force](https://images2.imgbox.com/cd/65/1FDcQayq_o.png)
+* Xmlrpc Mode Brute Force
+![Xmlrpc Mode Brute Force](https://images2.imgbox.com/84/99/VrmsmUXT_o.png)
