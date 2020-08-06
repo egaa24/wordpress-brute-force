@@ -30,4 +30,4 @@ For use the standar mode or xmlrpc mode, this tool auto detect your want brute f
 
 Screenshot
 ----------
-{% img class https://images2.imgbox.com/84/99/VrmsmUXT_o.png width height standart mode alt_text %}
+![standar mode brute](https://images2.imgbox.com/84/99/VrmsmUXT_o.png)
