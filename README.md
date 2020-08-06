@@ -2,7 +2,7 @@
 
 Install Requirement
 -------------------
-``` php install requirement URL link_text
+``` php
 pkg install php
 ```
 
