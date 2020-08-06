@@ -2,7 +2,7 @@
 
 Install Requirement
 -------------------
-``` php
+``` bash
 pkg install php
 ```
 
@@ -15,18 +15,19 @@ Features
 Usage
 -----
 * No Wordlist
-```bash
+``` bash
 php wp -t site.com -u admin -p admin
 ```
 * Using Wordlist
-```bash
+``` bash
 php wp -t site.com -u admin -l pass.txt
 ```
 * Custom User Agent
-```bash
+``` bash
 php wp -t site.com -u admin -l pass.txt -g="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15"
 ```
 For use the standar mode or xmlrpc mode, this tool auto detect your want brute force mode in url target.
 
 Screenshot
 ----------
+{% img class https://images2.imgbox.com/84/99/VrmsmUXT_o.png width height standart mode alt_text %}
