@@ -1,2 +1,6 @@
 # WordPress Brute Force Login
-WordPress Brute Force
+
+## Install Requirement
+```bash
+pkg install php
+```
