@@ -34,3 +34,5 @@ Screenshot
 ![Standart Mode Brute Force](https://images2.imgbox.com/cd/65/1FDcQayq_o.png)
 * Xmlrpc Mode Brute Force
 ![Xmlrpc Mode Brute Force](https://images2.imgbox.com/84/99/VrmsmUXT_o.png)
+
+{% img none https://images2.imgbox.com/cd/65/1FDcQayq_o.png 200 200 img img %}
