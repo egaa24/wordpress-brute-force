@@ -32,7 +32,7 @@ Screenshot
 ----------
 * Help
 
-![Help Pict](https://thumbs2.imgbox.com/fa/71/vs1tiOtZ_t.png)
+![Help Pict](https://images2.imgbox.com/fa/71/vs1tiOtZ_o.png)
 
 * Standart Mode Brute Force
 
