@@ -10,6 +10,7 @@ Features
 --------
 * Standard mode or xmlrpc brute force mode
 * http and https protocols supported
+* Custom HTTP USER AGENT
 
 Usage
 -----
